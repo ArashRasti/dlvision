@@ -2,3 +2,7 @@
 week 2/facial-keypoints/data/images
 week 2/facial-keypoints/data/images/*.*
 week 2/facial-keypoints/data/images/*
+
+data/image
+data/image/*
+data/image/*.*
